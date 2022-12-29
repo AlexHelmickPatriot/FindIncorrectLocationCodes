@@ -1,0 +1,56 @@
+{
+    "successful": true,
+    "locationCodeMatches": {
+      "locationCodes": [
+        {
+          "taxJurisdictionCode": "26-137-1615504",
+          "taxJurisdictionDescription": "Vanderbilt, Michigan (Otsego)",
+          "schoolDistrictCode": null,
+          "schoolDistrictDescription": null,
+          "municipalityCode": null,
+          "municipalityDescription": null,
+          "psdCode": null,
+          "locationCodeStatus": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "taxJurisdictionCode": "26-029-1615504",
+          "taxJurisdictionDescription": "Vanderbilt, Michigan (Charlevoix)",
+          "schoolDistrictCode": null,
+          "schoolDistrictDescription": null,
+          "municipalityCode": null,
+          "municipalityDescription": null,
+          "psdCode": null,
+          "locationCodeStatus": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "taxJurisdictionCode": "26-031-1615504",
+          "taxJurisdictionDescription": "Vanderbilt, Michigan (Cheboygan)",
+          "schoolDistrictCode": null,
+          "schoolDistrictDescription": null,
+          "municipalityCode": null,
+          "municipalityDescription": null,
+          "psdCode": null,
+          "locationCodeStatus": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "taxJurisdictionCode": "26-137-0004515625108471542",
+          "taxJurisdictionDescription": "No local tax",
+          "schoolDistrictCode": null,
+          "schoolDistrictDescription": null,
+          "municipalityCode": null,
+          "municipalityDescription": null,
+          "psdCode": null,
+          "locationCodeStatus": "Match",
+          "longitude": "-84.715421",
+          "latitude": "45.156247"
+        }
+      ]
+    },
+    "errors": []
+  }

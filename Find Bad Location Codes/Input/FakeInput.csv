@@ -1,0 +1,4 @@
+day_changed,address_id,company_id,employee_id,location_code,location_code_override,street_address_1,street_address_2,city,state,zip_code
+2022-01-01,3232262,22,1,,08-031-201738,1342 York St ,,Denver,CO,80206
+2022-01-01,3237453,23,2,37-013-996823,,104 oak dr,,Washington,NC,27889
+2022-01-01,3728391,23,3,,06-073-1661377,3725 Villa Ter,,San Diego,CA,CA

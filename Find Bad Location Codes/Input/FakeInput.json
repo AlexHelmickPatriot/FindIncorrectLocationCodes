@@ -1,0 +1,41 @@
+[
+  {
+    "day_changed": "2022-01-01",
+    "address_id": "3232262",
+    "company_id": "22",
+    "employee_id": "1",
+    "location_code": "",
+    "location_code_override": "08-031-201738",
+    "street_address_1": "1342 York St ",
+    "street_address_2": "",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80206"
+  },
+  {
+    "day_changed": "2022-01-01",
+    "address_id": "3237453",
+    "company_id": "23",
+    "employee_id": "2",
+    "location_code": "37-013-996823",
+    "location_code_override": "",
+    "street_address_1": "104 oak dr",
+    "street_address_2": "",
+    "city": "Washington",
+    "state": "NC",
+    "zip_code": "27889"
+  },
+  {
+    "day_changed": "2022-01-01",
+    "address_id": "3728391",
+    "company_id": "23",
+    "employee_id": "3",
+    "location_code": "",
+    "location_code_override": "06-073-1661377",
+    "street_address_1": "3725 Villa Ter",
+    "street_address_2": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92104"
+  }
+]
