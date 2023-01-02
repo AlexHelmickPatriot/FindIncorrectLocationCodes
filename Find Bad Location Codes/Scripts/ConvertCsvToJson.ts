@@ -1,6 +1,6 @@
 export class  ConvertCsvToJson {
     async ConvertCsvToJson(){
-        const data = await Deno.readTextFile("./Input/Potentially_Incorrect_Tax_Jurisdictions.csv");
+        const data = await Deno.readTextFile("./Input/FakeInput.csv");
 
         const lines =data.split("\n");
 

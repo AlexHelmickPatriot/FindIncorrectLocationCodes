@@ -45,7 +45,7 @@ export class GetCorrectCodeListFromPayrollEngine{
                         console.log(element.employee_id + " finished");
                     }
                     else{
-                        await Deno.writeTextFile("./Output/AndCorrectLocationCodes.csv", (`\n${element.employee_id},${element.company_id},${element.location_code},${element.location_code_override},`), {append: true});
+                        await Deno.writeTextFile("./Output/CurrentAndCorrectLocationCodes.csv", (`\n${element.employee_id},${element.company_id},${element.location_code},${element.location_code_override},`), {append: true});
             
                         await Deno.writeTextFile("./Output/FailedSearches.csv", (`\n${element.employee_id},${element.company_id}`), {append: true});
 
